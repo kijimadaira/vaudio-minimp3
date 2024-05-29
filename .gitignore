@@ -1,0 +1,22 @@
+# Build results
+[Dd]ebug_*/
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease_*/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+bld/
+[Oo]bj/
+[Ll]og/
+
+# Solutions must be rebuilt by each user, per-machine
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.vpc_crc
+*.sln
+
+# VPC files
+_vpc_
+*.vpc_cache
